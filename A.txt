@@ -1,7 +1,6 @@
 AA
 BB
 CC
-<<<<<<< HEAD
 DDD
 EE
 
